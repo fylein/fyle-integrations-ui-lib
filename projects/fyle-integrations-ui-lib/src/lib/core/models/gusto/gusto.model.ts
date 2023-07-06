@@ -1,9 +1,5 @@
 import { FormGroup } from "@angular/forms";
-
-export type EmailOption = {
-    email: string;
-    name: string;
-}
+import { EmailOption } from "../bamboo-hr/bamboo-hr.model";
 
 export type Gusto = {
     id: number;
