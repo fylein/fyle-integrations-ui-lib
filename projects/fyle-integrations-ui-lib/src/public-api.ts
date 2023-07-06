@@ -34,3 +34,23 @@ export * from './lib/shared/pipes/trim-character.pipe';
 export * from './lib/core/core.module';
 
 export * from './lib/core/services/qbd/qbd-core/qbd-workspace.service';
+
+export * from './lib/core/services/bamboo-hr/bamboo-hr.service';
+export * from './lib/core/services/core/api.service';
+export * from './lib/core/services/core/auth.service';
+export * from './lib/core/services/core/events.service';
+export * from './lib/core/services/core/storage.service';
+export * from './lib/core/services/core/window.service';
+export * from './lib/core/services/gusto/gusto.service';
+export * from './lib/core/services/integration/tracking.service';
+export * from './lib/core/services/misc/user.service';
+export * from './lib/core/services/org/org.service';
+export * from './lib/core/services/qbd/qbd-configuration/qbd-advanced-setting.service';
+export * from './lib/core/services/qbd/qbd-configuration/qbd-export-setting.service';
+export * from './lib/core/services/qbd/qbd-configuration/qbd-field-mapping.service';
+export * from './lib/core/services/qbd/qbd-core/qbd-api.service';
+export * from './lib/core/services/qbd/qbd-core/qbd-auth.service';
+export * from './lib/core/services/qbd/qbd-core/qbd-toast.service';
+export * from './lib/core/services/qbd/qbd-core/qbd-user.service';
+export * from './lib/core/services/qbd/qbd-iif-log/qbd-iif-logs.service';
+export * from './lib/core/services/travelperk/travelperk.service';
